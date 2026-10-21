@@ -35,7 +35,7 @@
     "cookie-parser": "^1.4.4",
     "discord.js": "^11.5.1",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.22.3",
     "express-promise-router": "^3.0.3",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
